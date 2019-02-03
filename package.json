@@ -2,6 +2,10 @@
   "name": "06_03_prototypes",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/evb0110/06_03_prototypes.git"
+  }
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
