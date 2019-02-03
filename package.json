@@ -4,8 +4,8 @@
   "description": "",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/evb0110/06_03_prototypes.git"
-  }
+    "url" : "https://github.com/npm/cli.git"
+  },
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
