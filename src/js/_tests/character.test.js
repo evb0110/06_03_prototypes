@@ -1,4 +1,4 @@
-import Character from './character';
+import Character from '../character';
 
 test('testing with a simple character', () => {
   const input = ['John', 'Bowman'];
