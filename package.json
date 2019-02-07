@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/npm/cli.git"
+    "type": "git",
+    "url": "https://github.com/npm/cli.git"
   },
   "main": "index.js",
   "scripts": {
