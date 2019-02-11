@@ -11,7 +11,8 @@
     "start": "webpack-dev-server --mode development",
     "test": "jest --coverage",
     "lint": "eslint .",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "doc": "jsdoc -c jsdoc.conf.json"
   },
   "keywords": [],
   "author": "eugene",
